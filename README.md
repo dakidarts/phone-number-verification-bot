@@ -1,6 +1,6 @@
 # Phone Number Verification Bot 📞✅
 
-![Phone Number Verification Bot](image/cover.png)
+![Phone Number Verification Bot](img/cover.png)
 
 Welcome to the **Phone Number Verification Bot**! This Telegram bot helps you verify phone numbers, providing details about the country, location, phone type, and more. Built with Python and leveraging the power of RapidAPI, this bot is here to ensure you have accurate information at your fingertips.
 
